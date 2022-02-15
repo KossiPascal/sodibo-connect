@@ -41,5 +41,5 @@ Nous pouvons mettre à jour notre politique de confidentialité de temps à autr
 ### Nous contacter
 Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter.
 Coordonnées :
-E-mail : kossi.tsolagnagbo@aiesec.net
-Numéro de téléphone : +22892645651 / +22898284737
+E-mail : *kossi.tsolagnagbo@aiesec.net*
+Numéro de téléphone : *+22892645651 / +22898284737*
